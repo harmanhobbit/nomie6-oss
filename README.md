@@ -1,6 +1,7 @@
 # Nomie 6 Open Source
 
 Why won't this build?
+Because I was committing on the wrong branch?
 
 Since Closing down nomie (https://nomie.app), I wanted to provide it as an open source project.
 
