@@ -1,5 +1,7 @@
 # Nomie 6 Open Source
 
+Why won't this build?
+
 Since Closing down nomie (https://nomie.app), I wanted to provide it as an open source project.
 
 ## Open Source Life Tracker / Mood Tracker / Data Journal
