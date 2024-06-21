@@ -94,6 +94,16 @@ const UOMS: IUOM = {
       return '$' + v.toFixed(2)
     },
   },
+  cdollars: {
+    singular: 'Dollar',
+    plural: 'Dollars',
+    symbol: 'CAD $',
+    type: 'currency',
+    symbolAffix: 'pre',
+    display: function (v: number) {
+      return 'CAD $' + v.toFixed(2)
+    },
+  },
   peso: {
     singular: 'Peso',
     plural: 'Peso',
