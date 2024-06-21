@@ -3,7 +3,7 @@ import latest from "./whatsNew.json";
 
 export default {
   version: AppVersion,
-  features: latest.features,
+//  features: latest.features,
   fixes: latest.fixes,
   chores: latest.chores,
 };
