@@ -1,19 +1,19 @@
 {
   "name": "nomie",
-  "version": "6.3.1",
-  "homepage": "https://github.com/open-nomie/nomie-oss",
+  "version": "6.3.2",
+  "homepage": "https://github.com/harmanhobbit/nomie-oss",
   "bugs": {
-    "url": "https://github.com/open-nomie/nomie-oss/issues",
+    "url": "https://github.com/harmanhobbit/nomie-oss/issues",
     "email": "support@happydata.org"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/open-nomie/nomie-oss.git"
+    "url": "https://github.com/harmanhobbit/nomie-oss.git"
   },
   "author": {
-    "name": "Brandon Corbin",
-    "email": "support@happydata.org",
-    "url": "https://github.com/open-nomie/nomie-ossnp"
+    "name": "Ian Allaway",
+    "email": "support@allawy.tech",
+    "url": "https://github.com/harmanhobbit/nomie-ossnp"
   },
   "scripts": {
     "dev": "vite --host 0.0.0.0 --port 5001",
